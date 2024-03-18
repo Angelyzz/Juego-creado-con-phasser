@@ -15,18 +15,12 @@
 *Niveles*
 
 * El juego cuenta con una variedad de niveles cada vez más desafiantes.
-* A medida que avanzas, las plataformas se moverán más rápido y las bombas caerán con mayor frecuencia.
+* A medida que vas recojiendo tus extrellas caeran mas bombas 
 * Pon a prueba tus reflejos y tu coordinación para superar todos los niveles.
-
-*Power-ups*
-
-* Algunos niveles incluyen power-ups que te ayudarán en tu aventura.
-* Consigue escudos para protegerte de las bombas, botas para saltar más alto e imanes para atraer las estrellas hacia ti.
 
 *Consejos*
 
 * Sé paciente y observa bien el patrón de las bombas antes de moverte.
-* Usa los power-ups a tu favor para superar los obstáculos más difíciles.
 * No te rindas, ¡la práctica hace al maestro!
 
 *Requisitos*
@@ -35,14 +29,13 @@
 
 *Descarga*
 
-¡Agarra las estrellas! ya está disponible para jugar en tu navegador web. ¡Empieza a jugar ahora!: [https://play.google.com/store/apps/details?id=mx.naat.televisa.video&hl=en&gl=US](https://play.google.com/store/apps/details?id=mx.naat.televisa.video&hl=en&gl=US)
+¡Agarra las estrellas! ya está disponible para jugar en tu navegador web. ¡Empieza a jugar ahora!: https://angelyzz.github.io/Juego-creado-con-phasser/
 
 *¡Mucha suerte y diviértete!*
 
 *Créditos*
 
 * Juego creado con Phaser 3
-* Arte y música por [Nombre del artista o estudio]
 
 *Agradecimientos*
 
